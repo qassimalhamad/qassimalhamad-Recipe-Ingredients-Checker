@@ -1,0 +1,8 @@
+/* src/App.css */
+.needed {
+  text-decoration: line-through;
+}
+
+.not-needed {
+  color: red;
+}
